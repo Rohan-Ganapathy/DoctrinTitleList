@@ -1,0 +1,23 @@
+{
+  "coworkerList": {
+    "SimpleName": "List of Co-workers on the page",
+    "WEB": {
+      "selectorType": "css",
+      "selector": ".employees-list-inner li"
+    }
+  },
+  "coworkerName": {
+    "SimpleName": "Name of Co-worker",
+    "WEB": {
+      "selectorType": "css",
+      "selector": ".name.u-link-color"
+    }
+  },
+  "coworkerTitle": {
+    "SimpleName": "Title of Co-worker",
+    "WEB": {
+      "selectorType": "css",
+      "selector": ".title.u-text--small.u-primary-text-color"
+    }
+  }
+}
